@@ -1,7 +1,3 @@
-Here's an upgraded version of your README file for the Expense Tracker Application. This version aims to make it informative, visually organized, and engaging.
-
----
-
 # **Expense Tracker Application**
 
 An **intuitive web-based tool** to help you record, track, and analyze your daily financial transactions with ease. Stay on top of your **income** and **expenses** and improve your financial management habits!
