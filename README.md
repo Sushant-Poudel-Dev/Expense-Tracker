@@ -1,7 +1,7 @@
 Expense Tracker Application
 An intuitive web-based application to record and track your daily income and expenses. Easily filter, sort, and analyze your transaction history.
 
-Project Overview
+#Project Overview
 This Expense Tracker application allows users to log daily financial transactions and monitor their income, expenses, and overall balance. Additionally, users can search, sort, and view historical data for effective financial management.
 
 Features
