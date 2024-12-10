@@ -7,11 +7,9 @@ An **intuitive web-based tool** to help you record, track, and analyze your dail
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
 
 ---
 
